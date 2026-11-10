@@ -1,0 +1,10 @@
+/build/
+/output/
+/private/
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Real studio data never belongs in git. Keep rosters, real presets and private
+# build output in private/ (or build/); the tracked samples stay fictional.

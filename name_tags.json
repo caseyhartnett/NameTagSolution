@@ -1,0 +1,134 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "row_001_john_smith": {
+      "label_text": "John Smith",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_002_jane_doe": {
+      "label_text": "Jane Doe",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_003_mary_jones": {
+      "label_text": "Mary Jones",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_004_robert_brown": {
+      "label_text": "Robert Brown",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_005_john_smith": {
+      "label_text": "John Smith",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_006_jose_smith": {
+      "label_text": "José Smith",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_007_studio_tools": {
+      "label_text": "Studio tools",
+      "second_line_text": "",
+      "symbol": "none"
+    },
+    "row_008_kiln": {
+      "label_text": "Kiln",
+      "second_line_text": "Room",
+      "symbol": "none"
+    },
+    "row_009_alex_taylor": {
+      "label_text": "Alex Taylor",
+      "second_line_text": "",
+      "symbol": "money_bag"
+    },
+    "row_010_sam_wilson": {
+      "label_text": "Sam Wilson",
+      "second_line_text": "",
+      "symbol": "smile"
+    },
+    "row_011_robin_miller": {
+      "label_text": "Robin Miller",
+      "second_line_text": "",
+      "symbol": "flower"
+    },
+    "row_012_pat_lee": {
+      "label_text": "Pat Lee",
+      "second_line_text": "",
+      "symbol": "none"
+    }
+  },
+  "batch": {
+    "name": "fake_names",
+    "rows": [
+      {
+        "id": "row_001_john_smith",
+        "original": "John Smith",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_002_jane_doe",
+        "original": "Jane Doe",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_003_mary_jones",
+        "original": "Mary Jones",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_004_robert_brown",
+        "original": "Robert Brown",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_005_john_smith",
+        "original": "John Smith",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_006_jose_smith",
+        "original": "José Smith",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_007_studio_tools",
+        "original": "Studio tools",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_008_kiln",
+        "original": "Kiln",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_009_alex_taylor",
+        "original": "Alex Taylor",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_010_sam_wilson",
+        "original": "Sam Wilson",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_011_robin_miller",
+        "original": "Robin Miller",
+        "sample_data": "FAKE_NAMES"
+      },
+      {
+        "id": "row_012_pat_lee",
+        "original": "Pat Lee",
+        "sample_data": "FAKE_NAMES"
+      }
+    ],
+    "fictional_sample_data": true,
+    "description": "Fictional sample data; not a roster of real people.",
+    "line_policy": "phrases_stay_on_one_line",
+    "emoji_policy": "symbols"
+  }
+}
